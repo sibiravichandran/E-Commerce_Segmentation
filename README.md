@@ -54,6 +54,7 @@ Cluster B :
 Cluster C :
     `ANALYSIS BASED ON BRANDS`
 
+Final data along with the clusters file is [https://github.com/sibiravichandran/E-Commerce_Segmentation/blob/main/E-Commerce_Customer%20Segmentation_Final.csv]
  
  
  
