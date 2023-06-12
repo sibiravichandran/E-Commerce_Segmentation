@@ -20,6 +20,16 @@ The data was collected from a well known e-commerce website over a period of tim
 | Gender        | Gender of the customer                               |
 | Orders        | Number of orders placed by each customer in the past |
 
+## Remaining 35 features (brands) contains the number of time customers have searched them
+
+## Scope:
+         ● Analyzing the existing customer data and getting valuable insights
+           about the purchase pattern
+         ● Data pre-processing including missing value treatment
+         ● Segmenting customer based on the optimum number of clusters (‘k’)
+           with the help of silhouette score
+         
+         
 
  
  
