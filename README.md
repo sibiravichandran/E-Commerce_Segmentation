@@ -23,15 +23,29 @@ The data was collected from a well known e-commerce website over a period of tim
 ## Remaining 35 features (brands) contains the number of time customers have searched them
 
 ## Scope:
-         ● Analyzing the existing customer data and getting valuable insights
-           about the purchase pattern
+         ● Analyzing the existing customer data and getting valuable insights about the purchase pattern
          ● Data pre-processing including missing value treatment
-         ● Segmenting customer based on the optimum number of clusters (‘k’)
-           with the help of silhouette score
+         ● Segmenting customer based on the optimum number of clusters (‘k’) with the help of silhouette score
          
-         
+## WORKFLOW:
+*        Importing necessary libraries
+*        Data Loading
+*        Exploratory Data Analysis
+*        Handling Missing Values
+*        Data Visualizations
+*        Encoding Variables
+*        Feature Handling
+*        Performing MinMax Scaling
+*        Deriving insights based on the analysis for the following criteria's like grouping custers based on orders, based on orders and total brands searched and based on brands.
+*        Implementing Elbow method and Silhouette Analysis for Optimal K valueand visualizing using the KElbow Visualizer
+*        Implementing KMeans Algorithm
+*        Derive Insights based on the output of the model with the clusters data
+*        Output Data along with the Clusters details is saved as a CSV file
 
- 
+Cluster A : ANALYSIS BASED ON ORDERS
+Cluster B : ANALYSIS BASED ON ORDERS AND TOTAL BRANDS SEARCHES
+Cluster C : ANALYSIS BASED ON BRANDS
+
  
  
  
