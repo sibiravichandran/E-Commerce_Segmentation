@@ -47,8 +47,10 @@ The data was collected from a well known e-commerce website over a period of tim
 
 Cluster A : 
     `ANALYSIS BASED ON ORDERS`
+
 Cluster B : 
     `ANALYSIS BASED ON ORDERS AND TOTAL BRANDS SEARCHES`
+
 Cluster C :
     `ANALYSIS BASED ON BRANDS`
 
