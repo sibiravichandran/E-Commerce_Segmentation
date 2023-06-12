@@ -46,11 +46,11 @@ The data was collected from a well known e-commerce website over a period of tim
 * Output Data along with the Clusters details is saved as a CSV file
 
 Cluster A : 
-    ANALYSIS BASED ON ORDERS
+    `ANALYSIS BASED ON ORDERS`
 Cluster B : 
-    ANALYSIS BASED ON ORDERS AND TOTAL BRANDS SEARCHES
+    `ANALYSIS BASED ON ORDERS AND TOTAL BRANDS SEARCHES`
 Cluster C :
-    ANALYSIS BASED ON BRANDS
+    `ANALYSIS BASED ON BRANDS`
 
  
  
